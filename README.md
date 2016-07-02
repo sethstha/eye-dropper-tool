@@ -29,6 +29,8 @@ cd  eye-dropper-tool
 npm install && npm start
 ```
 
+Or if you're using OSX, just download `Eye Dropper-darwin-x64/Eye Dropper.app`(the `Eye Dropper.app` file is large due to the Electron framework also being packaged).
+
 Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
 
 #### License [CC0 (Public Domain)](LICENSE.md)
