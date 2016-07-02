@@ -4,6 +4,8 @@
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
 
+This application is a simple colour picker tool that allows you to get a colour reading of any point on your screen.
+
 **Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
 
 A basic Electron application needs just these files:
@@ -20,9 +22,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/raymondtieu/eye-dropper-tool.git
 # Go into the repository
-cd electron-quick-start
+cd  eye-dropper-tool
 # Install dependencies and run the app
 npm install && npm start
 ```
